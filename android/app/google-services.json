@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374225598581",
+    "project_id": "bhaktisagar-382dd",
+    "storage_bucket": "bhaktisagar-382dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374225598581:android:728e4424f261fe4587603c",
+        "android_client_info": {
+          "package_name": "com.secucorelabs.bhaktisagar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADeffFTlbGK0R5Ty3Nlui8DVKuBz4zI0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
